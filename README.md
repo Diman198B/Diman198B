@@ -18,22 +18,18 @@ My name is Dmitry, I'm - FullStack Web Developer, but mainly specialized in Fron
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-- HTML5 (+ Responsive/cross-browser layout, “mobile-first”, “pixel perfect”, methodology BEM)
-- CSS3 (+ Scss/Less/Sass, Animations and transformations CSS/JS)
-- Bootstrap 5
-- JavaScript ES6+ (+ OOP, MVC/MVP/MVVM, big-O-notation, Design Patterns, DRY, Kiss, Yagni)
+- HTML5 (Adaptive/cross-browser layout, “mobile-first”, “pixel perfect”)
+- CSS3 (Scss/Less/Sass, CSS/JS Animations and Transforms, Bootstrap 5.2)
+- JavaScript ES6+ (JQuery, OOP, Design Patterns, DRY, Kiss, Yagni)
 - TypeScript
-- JQuery
-- Webpack 5
+- Webpack 5 (theoretically familiar with Gulp)
 - React (+ Redux)
 - Git / Github
 - NPM / Yarn
-- Node.JS
-- Jest / Enzyme (+ Mocha/Chai, TDD/BDD/TLD)
+- Node.JS (NPM/Yarn)
+- Jest / Enzyme
 - EsLint / Prettire
-- CI/CD processes
-- PHP7
-- MySQL
+- Basic knowledge of PHP7 + MySQL to work with Back-End.
 
 
 
