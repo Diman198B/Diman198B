@@ -26,7 +26,7 @@ My name is Dmitry, I'm - FullStack Web Developer, but mainly specialized in Fron
 - React (+ Redux)
 - Git / Github
 - NPM / Yarn
-- Node.JS (NPM/Yarn)
+- Node.JS
 - Jest / Enzyme
 - EsLint / Prettire
 - Basic knowledge of PHP7 + MySQL to work with Back-End.
