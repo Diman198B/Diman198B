@@ -1,13 +1,11 @@
 ### Hi there :wave:
 
-My name is Dmitry, I'm - FullStack Web Developer, but mainly specialized in Frontend Development. :computer:
-
-![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+My name is Dmitry, I create fast, stable, high performance, easy to use websites and web applications. Knowledge of the stack of modern web technologies helps me with this. I work mainly in the frontend direction, but I understand the backend a little. :computer:
 
 ---
 ### :man_technologist: About Me :
 
-- :chart_with_upwards_trend: I have been a web developer since December 2020. 
+- :chart_with_upwards_trend: I have been a web developer since june 2021. 
 
 - :mortar_board: I have a master's degree in radio engineering and electronics National research university "MPEI".
 
@@ -22,7 +20,7 @@ My name is Dmitry, I'm - FullStack Web Developer, but mainly specialized in Fron
 - CSS3 (Scss/Less/Sass, CSS/JS Animations and Transforms, Bootstrap 5.2)
 - JavaScript ES6+ (JQuery, OOP, Design Patterns, DRY, Kiss, Yagni)
 - TypeScript
-- Webpack 5 (theoretically familiar with Gulp)
+- Webpack 5 (+ theoretically familiar with Gulp)
 - React (+ Redux)
 - Git / Github
 - NPM / Yarn
