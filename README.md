@@ -1,4 +1,4 @@
-### Hi there :wave:
+### :wave: Hi there 
 
 My name is Dmitry, I create fast, stable, high performance, easy to use websites and web applications. Knowledge of the stack of modern web technologies helps me with this. I work mainly in the frontend direction, but I understand the backend a little. :computer:
 
