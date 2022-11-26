@@ -18,7 +18,8 @@ My name is Dmitry, I create fast, stable, high performance, easy to use websites
 ### :hammer_and_wrench: Languages and Tools :
 - HTML5 (Adaptive/cross-browser layout, “mobile-first”, “pixel perfect”)
 - CSS3 (Scss/Less/Sass, CSS/JS Animations and Transforms, Bootstrap 5.2)
-- JavaScript ES6+ (JQuery, OOP, Design Patterns, DRY, Kiss, Yagni)
+- JavaScript (ES5,ES6) (+ SOLID,OOP, Design Patterns, DRY, Kiss, Yagni)
+- JQuery
 - TypeScript
 - Webpack 5 (+ theoretically familiar with Gulp)
 - React (+ Redux)
