@@ -1,11 +1,9 @@
 ### :wave: Hi there 
 
-My name is Dmitry, I create fast, stable, high performance, easy to use websites and web applications. Knowledge of the stack of modern web technologies helps me with this. I work mainly in the frontend direction, but I understand the backend a little. :computer:
+My name is Dmitry, I create fast, stable, high performance, easy to use websites and web applications. Knowledge of the stack of modern web technologies helps me with this. :computer:
 
 ---
 ### :man_technologist: About Me :
-
-- :chart_with_upwards_trend: I have been a web developer since june 2021. 
 
 - :mortar_board: I have a master's degree in radio engineering and electronics National research university "MPEI".
 
