@@ -14,20 +14,25 @@ My name is Dmitry, I create fast, stable, high performance, easy to use websites
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-- HTML5 (Adaptive/cross-browser layout, “mobile-first”, “pixel perfect”)
-- CSS3 (Scss/Less/Sass, CSS/JS Animations and Transforms, Bootstrap 5.2)
-- JavaScript (ES5,ES6) (+ SOLID,OOP, Design Patterns, DRY, Kiss, Yagni)
-- JQuery
-- TypeScript
-- Webpack 5 (+ theoretically familiar with Gulp)
-- React (+ Redux)
-- Git / Github
-- NPM / Yarn
-- Node.JS
-- Jest / Enzyme
-- EsLint / Prettire
-- Basic knowledge of PHP7 + MySQL to work with Back-End.
 
-
+• HTML5 (Adaptive/cross-browser layout, “mobile-first”, “pixel perfect”, BEM, Accessibility, Validity)
+• CSS3 (Scss/Less/Sass, CSS/JS Animations and Transforms)
+• Bootstrap
+• Tailwind CSS
+• JavaScript (ES5 - ES12) ( ООP, SOLID, Design Patterns, DRY, Kiss, Yagni)
+• JQuery
+• TypeScript
+• React
+• NextJS
+• Redux
+• Gulp / Webpack 5 / Vite
+• Git / Github / Gitlab
+• Node.JS (NPM / Yarn)
+• Jest + Enzyme
+• EsLint
+• Prettire
+• Docker
+• Photoshop
+• Figma
 
 
