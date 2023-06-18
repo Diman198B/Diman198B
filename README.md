@@ -1,6 +1,6 @@
 ### :wave: Hi there 
 
-My name is Dmitry, I create fast, stable, high performance, easy to use websites and web applications. Knowledge of the stack of modern web technologies helps me with this. :computer:
+My name is Dmitry, i am a Frontend developer. I create fast, stable, high performance, easy to use websites and web applications. Knowledge of the stack of modern web technologies helps me with this. :computer:
 
 ---
 ### :man_technologist: About Me :
